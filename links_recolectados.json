@@ -525520,5 +525520,4199 @@
     "section": "peliculas",
     "video_links": [],
     "fecha_scrape": "2026-10-16 13:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/belleza-plastica",
+    "title": "Belleza plástica (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/5wy9oAKgiEQBrP78p8qkoVcpVCQ.jpg",
+    "tmdb_id": 298008,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-muneca",
+    "title": "La muñeca (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/72pRBOj8S52NbT1F8OkMxD9OnjY.jpg",
+    "tmdb_id": 295089,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-drop-a-snowfall-saga",
+    "title": "The Drop: A Snowfall Saga (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/naCJhAWRtxBWBfMYdFpM5sPwczI.jpg",
+    "tmdb_id": 304842,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/neagley",
+    "title": "Neagley (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cHXJPFDqKYY0fQZZVEMLFspfwI0.jpg",
+    "tmdb_id": 273207,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/city-of-blood",
+    "title": "City of Blood (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/dfCSK88iG2Z2V9u6sXZkruiygq7.jpg",
+    "tmdb_id": 332401,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/golden-axe",
+    "title": "Golden Axe (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/toEwR5VTFzHmxW1pX1HjtTXH6QH.jpg",
+    "tmdb_id": 252105,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/amores-inesperados",
+    "title": "Amores inesperados (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/n5QzgAh5QNscYqmp9vekgvKBp2e.jpg",
+    "tmdb_id": 316488,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/en-coma",
+    "title": "En Coma (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/PXTBzvEgxXT49RYSurT6xkNZU7.jpg",
+    "tmdb_id": 332863,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/historia-de-dos-ciudades",
+    "title": "Historia de dos ciudades (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cHWIztU7qYEDFE2eAQsWFdGS19d.jpg",
+    "tmdb_id": 301626,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-juicio",
+    "title": "El juicio (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/bFg26U2rS3TmcYRPSYY7FRkVWHc.jpg",
+    "tmdb_id": 260249,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/chavez-vs-chavez",
+    "title": "Chávez vs Chávez (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/t9uA5QjyS3rSz81LuYEAGK37Oqu.jpg",
+    "tmdb_id": 334859,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-timonel",
+    "title": "La timonel (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/tzf21i1ETZEu7i787ED3WThROH.jpg",
+    "tmdb_id": 300507,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-club-gastronomico",
+    "title": "El club gastronómico (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/kGqVIxC0FH4AbbBXjaVFqXQ3Azz.jpg",
+    "tmdb_id": 325755,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/wolf-creek",
+    "title": "Wolf Creek (2016)",
+    "cover": "https://image.tmdb.org/t/p/w342/4QKrCBkeRFGPJMk4JV0MmMJ5mBv.jpg",
+    "tmdb_id": 66090,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dang",
+    "title": "DANG! (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wSDM4tIC5praLH9GxZisiIBIkz.jpg",
+    "tmdb_id": 314478,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/colision",
+    "title": "Colisión (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4loiHfZZx027yP0CtErtCPbkTc1.jpg",
+    "tmdb_id": 331033,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/fauda",
+    "title": "Fauda (2015)",
+    "cover": "https://image.tmdb.org/t/p/w342/iTZX0noHJMYLhNHNj7r97mm9Zi.jpg",
+    "tmdb_id": 69557,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hola-sandybell",
+    "title": "¡Hola, Sandybell! (1981)",
+    "cover": "https://image.tmdb.org/t/p/w342/eRR5qLUu2VJSAp3KiqRfBhv6I6m.jpg",
+    "tmdb_id": 9723,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:37"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sheriff-country",
+    "title": "Sheriff Country (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "tmdb_id": 253391,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mal-de-amores",
+    "title": "Mal de Amores (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ee6yRTxGSsFKcynzvSJDziBmclz.jpg",
+    "tmdb_id": 290234,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-muerte-de-la-esposa-del-pastor",
+    "title": "La muerte de la esposa del pastor (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/smK3zo50v4eHwWjWKyhUgicJUxL.jpg",
+    "tmdb_id": 331616,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-idiota-preferido-de-dios",
+    "title": "El idiota preferido de Dios (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/3lCe1vzmHvKCHLFz2tYYoArux1Q.jpg",
+    "tmdb_id": 114201,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:40"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-venganza-de-analia",
+    "title": "La venganza de Analía (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/A6loUkR3w1hRqiUmiOCTXZoJysa.jpg",
+    "tmdb_id": 102712,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/southland",
+    "title": "Southland (2009)",
+    "cover": "https://image.tmdb.org/t/p/w342/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
+    "tmdb_id": 17611,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hotel-todo-incluido",
+    "title": "Hotel Todo Incluido (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/r7CJuUXoIl8lgISfTwt5zzGWeQG.jpg",
+    "tmdb_id": 333096,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/toda-la-verdad-de-mis-mentiras",
+    "title": "Toda la verdad de mis mentiras (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/dAISEl3uXtw64jlkTCm1H1XnQ4W.jpg",
+    "tmdb_id": 292558,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:43"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cementerio",
+    "title": "Cementerio (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/p22xaH2ZpxhdJa1ZFF528Yk7AWc.jpg",
+    "tmdb_id": 204255,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/linternas",
+    "title": "Linternas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/onBO4v52N3ikLaajwzOZ6AbXlNJ.jpg",
+    "tmdb_id": 95350,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mi-brillante-carrera",
+    "title": "Mi brillante carrera (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/fwZSe7xoeRux9NUsjT5j4yM2NOo.jpg",
+    "tmdb_id": 309798,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gatos-callejeros-de-ricky-gervais",
+    "title": "Gatos callejeros, de Ricky Gervais (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/w3Fgw1LCWdP9Zx2UEyuagRG9DAA.jpg",
+    "tmdb_id": 300480,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:46"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/acaramelados",
+    "title": "Acaramelados (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ny8zYj40mWGTgKJi1a8hjNFUj9n.jpg",
+    "tmdb_id": 291496,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/operacion-safed-sagar",
+    "title": "Operación Safed Sagar (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/f56PHAGbUFPmHMRippWWNpRgSao.jpg",
+    "tmdb_id": 284753,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/muertos-sl",
+    "title": "Muertos S.L. (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/g6vptk7afH3OHOKSjdjJJtEoOMh.jpg",
+    "tmdb_id": 237964,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/furious",
+    "title": "Furious (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/yfcCHbWg1XtFvqcp6cWmEnYWA7r.jpg",
+    "tmdb_id": 287238,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:49"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/star-wars-visions-la-jedi-numero-9",
+    "title": "Star Wars Visions: La Jedi número 9 (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/lbjh2Iae4adcSCe3QJ9G62ZCE6c.jpg",
+    "tmdb_id": 289324,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-husband",
+    "title": "The Husband (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nRTpRToUtfizkt4luZLfb7LTIEe.jpg",
+    "tmdb_id": 222776,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sterling-point",
+    "title": "Sterling Point (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg",
+    "tmdb_id": 283297,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-shards",
+    "title": "The Shards (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/xxz63rBBX5MiPzZ7HDoBGfl7zTK.jpg",
+    "tmdb_id": 298168,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:52"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/presidente-curtis",
+    "title": "Presidente Curtis (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/fnbmOKHcO3W66rNE4ESfc4DjShi.jpg",
+    "tmdb_id": 296756,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/diarra-from-detroit",
+    "title": "Diarra from Detroit (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/82h6c3yOXvaty7s0VNIFV8Fc3We.jpg",
+    "tmdb_id": 247796,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-banda",
+    "title": "La banda (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nZVSACVkFSPasimJSrQXSla7J2l.jpg",
+    "tmdb_id": 284758,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lucky",
+    "title": "Lucky (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/vZ3GfOoeha2xVCPec0jv2jf3yfC.jpg",
+    "tmdb_id": 278624,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:55"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/furia",
+    "title": "Fúria (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/up9kAhzfN3wtnFi1D8AloWeHGDo.jpg",
+    "tmdb_id": 292533,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/proyecto-final",
+    "title": "Proyecto Final (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/11rCh2E4SmdT06Qr9HsBrIftoHQ.jpg",
+    "tmdb_id": 327814,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/stuart-no-consigue-salvar-el-universo",
+    "title": "Stuart no consigue salvar el Universo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/a2BVGU3Uf30wJFfRBr2G9T8S6bi.jpg",
+    "tmdb_id": 287620,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/locker-diaries-phineas-and-ferb",
+    "title": "Locker Diaries: Phineas And Ferb (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/eZH22LJOk6pigT2sSvBdZXHM0R4.jpg",
+    "tmdb_id": 317375,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:58"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/viaje-al-centro-de-la-tierra",
+    "title": "Viaje al centro de la Tierra (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/96hSFf60s51EX0tLgsiGzdKW9pg.jpg",
+    "tmdb_id": 125462,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-otro-padre",
+    "title": "El Otro Padre (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/mAHdy86elM3VunTnLiBtGlLOFtD.jpg",
+    "tmdb_id": 329394,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 11:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gign-unidad-de-elite",
+    "title": "GIGN: Unidad de élite (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4uh8mjAwKOpTrlu4nldsBf0ZOuU.jpg",
+    "tmdb_id": 281281,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nueva-vida-en-ransom-canyon",
+    "title": "Nueva vida en Ransom Canyon (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg",
+    "tmdb_id": 240993,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-capo-del-bloque",
+    "title": "El capo del bloque (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wR7y2h0ccbaTnU5KpUjKIesflng.jpg",
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-mapa-de-los-anhelos",
+    "title": "El mapa de los anhelos (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/yVy4Hk8mkMBC9p8rfsBIIp6KhrF.jpg",
+    "tmdb_id": 288671,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/pendragon-el-ascenso-de-merlin",
+    "title": "Pendragon: el ascenso de Merlin (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/glA1YadxM9HvoyVVTB9cJLXiPMe.jpg",
+    "tmdb_id": 235685,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nasa-archivos-desclasificados",
+    "title": "Nasa: archivos desclasificados (2012)",
+    "cover": "https://image.tmdb.org/t/p/w342/6w5zVDc6YyiSQZPtJXnboZ2lKfq.jpg",
+    "tmdb_id": 57478,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/salish-y-jordan-matter",
+    "title": "Salish y Jordan Matter (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/lnllybMv0XVxClYf0dXGXKnANj3.jpg",
+    "tmdb_id": 318906,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-del-lado-oeste",
+    "title": "Los del lado oeste (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/oYctSXDHjJKvB9PtAAFL5cpJEEb.jpg",
+    "tmdb_id": 286709,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/teletubbies",
+    "title": "Teletubbies (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/fETLDRm3d7ScIZT3Zu09LOUphw3.jpg",
+    "tmdb_id": 211069,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:06"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sintonia",
+    "title": "Sintonia (2019)",
+    "cover": "https://image.tmdb.org/t/p/w342/sTTxrKX9DzB5K6wdsfCs5bQ0r6r.jpg",
+    "tmdb_id": 78074,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:07"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-faithful",
+    "title": "The Faithful (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/6wookNIDx4IEQmpu0920qFDuRyI.jpg",
+    "tmdb_id": 291100,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-casa-de-la-pradera",
+    "title": "La casa de la pradera (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/kLz26pPuuvHZjjpMx6TsH5QETZA.jpg",
+    "tmdb_id": 283304,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/salcedo-cuero-y-boogaloo",
+    "title": "Salcedo, cuero y boogaloo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+    "tmdb_id": 327787,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/no-tengo-miedo",
+    "title": "No tengo miedo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ctDqarHjLlrKhKx1j7N4rF746qQ.jpg",
+    "tmdb_id": 290232,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/perdiendo-el-juicio",
+    "title": "Perdiendo el juicio (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg",
+    "tmdb_id": 259200,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-doomies",
+    "title": "The Doomies (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/zTUuiutD2Kj8lwd552uX8dzxA24.jpg",
+    "tmdb_id": 204137,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/una-familia-complicada",
+    "title": "Una Familia Complicada (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/8IO6eC6w5OqIn6U6wuhB8fqJo4W.jpg",
+    "tmdb_id": 326969,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:12"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/profunda-venganza",
+    "title": "Profunda Venganza (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/3JaVFK2qPMyRdjDNBEQTLMxZqUg.jpg",
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:13"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-inmortal",
+    "title": "El inmortal (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/4BUcOGbMVZqgbrLdhmRn91dIGHz.jpg",
+    "tmdb_id": 197929,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-peor-vecino-imaginable",
+    "title": "El peor vecino imaginable (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/1WarGMl1xR0l7ut72putZcgrCJS.jpg",
+    "tmdb_id": 325188,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/verano-del-36",
+    "title": "Verano del 36 (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/kvsRyg6mVtQyfDatWVvsQkOVXUP.jpg",
+    "tmdb_id": 287976,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/olivia",
+    "title": "Olivia (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cKSZ0HotUro3pUYOcy7xq3CDER6.jpg",
+    "tmdb_id": 325313,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-hombre-vapor",
+    "title": "El Hombre Vapor (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/r0X87BSqyiACUXUuHcDmNNx2Hm6.jpg",
+    "tmdb_id": 253960,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/super-subbu",
+    "title": "Super Subbu (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/oNjTdpWZFccXGekoWwIqNZZEoXK.jpg",
+    "tmdb_id": 283609,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/freud",
+    "title": "Freud (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/coW5qDTYHy5k7Akbe3QgD9qw8Dn.jpg",
+    "tmdb_id": 99509,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:18"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/agente-kim-reactivado",
+    "title": "Agente Kim reactivado (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/eKJNWq4akdrviR9qEF6xPhzKQU.jpg",
+    "tmdb_id": 296206,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:19"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-capture",
+    "title": "The Capture (2019)",
+    "cover": "https://image.tmdb.org/t/p/w342/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg",
+    "tmdb_id": 93166,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/true-horror",
+    "title": "True Horror (2018)",
+    "cover": "https://image.tmdb.org/t/p/w342/8hwRyLRzluaeK4JqPLDg9Kk02JP.jpg",
+    "tmdb_id": 91173,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-experimento-estadounidense",
+    "title": "El experimento estadounidense (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "tmdb_id": 322427,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nippon-sangoku",
+    "title": "Nippon Sangoku (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/8XZoZBEAZ8Ktsq6PYJkReIpUhyv.jpg",
+    "tmdb_id": 312474,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/wild-cherry",
+    "title": "Wild Cherry (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/oxn4ylDZSnQq83H0jXAmueBFV8A.jpg",
+    "tmdb_id": 275557,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sigue-respirando",
+    "title": "Sigue respirando (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/GCbrZqvUmQZ8LR3D3j7FNEYN48.jpg",
+    "tmdb_id": 195822,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/magnifica-70",
+    "title": "Magnífica 70 (2015)",
+    "cover": "https://image.tmdb.org/t/p/w342/8bdfZbcD0eeT1XTQB4p2cSDM6qg.jpg",
+    "tmdb_id": 62892,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/houdini",
+    "title": "Houdini (2014)",
+    "cover": "https://image.tmdb.org/t/p/w342/ba43f5KXfH01ipDmDR4lZSQyDkL.jpg",
+    "tmdb_id": 49157,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/skimo",
+    "title": "Skimo (2006)",
+    "cover": "https://image.tmdb.org/t/p/w342/stn6fOTe6f9ppw75HDcpGIJFyKu.jpg",
+    "tmdb_id": 263,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/boss",
+    "title": "Boss (2011)",
+    "cover": "https://image.tmdb.org/t/p/w342/foV4LJFlFaxLBqSd6Dih9HVupkj.jpg",
+    "tmdb_id": 38922,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/infieles-2017",
+    "title": "Infieles (2017)",
+    "cover": "https://image.tmdb.org/t/p/w342/bfrbM6r7zXZt4NV0LsPNKPyWVWP.jpg",
+    "tmdb_id": 109184,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/par-de-ideotas",
+    "title": "Par de ideotas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/hNEqLwIcG2jCk4tzzBbg6GIeeNn.jpg",
+    "tmdb_id": 284416,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rapa",
+    "title": "Rapa (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/1B8n8FngnghLlwLHKFAKV7y38Cg.jpg",
+    "tmdb_id": 195946,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/soulmates",
+    "title": "Soulmates (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/g2mvINQCGACb9sswdKXh1KwpwzB.jpg",
+    "tmdb_id": 100771,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-leyendas-creaturas-ocultas",
+    "title": "Las Leyendas: Creaturas ocultas (2019)",
+    "cover": "https://image.tmdb.org/t/p/w342/uBfuEKQPHYyDjc4p12xcPShtU0.jpg",
+    "tmdb_id": 94462,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-poligamo",
+    "title": "El polígamo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/2vuwqi1lb5TB2cpi7VuVCm2tTSZ.jpg",
+    "tmdb_id": 322430,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hit-viral",
+    "title": "Hit viral (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/7UTSB8enoMYwXZykELHNNrCw2ND.jpg",
+    "tmdb_id": 312493,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-dos-caras-de-la-ley",
+    "title": "Las dos caras de la ley (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/yHmqfPIbVuAOlnJwlRHLQmXqfZb.jpg",
+    "tmdb_id": 324115,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/todos-nuestros-anos",
+    "title": "Todos nuestros años (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/pnwqkduWZR2wITBtjU4EopeMiCv.jpg",
+    "tmdb_id": 260592,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dragon-striker",
+    "title": "Dragon Striker (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/5aELUnMSAIcJf4CAmcgIWcKmO8c.jpg",
+    "tmdb_id": 204135,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-chapulin-colorado",
+    "title": "El Chapulín Colorado (1973)",
+    "cover": "https://image.tmdb.org/t/p/w342/rcLjSvfQVxE27TidowGra2A3aYq.jpg",
+    "tmdb_id": 13023,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/alice-y-steve",
+    "title": "Alice y Steve (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/gPou8wNiTz1uleLKllclrqanXXf.jpg",
+    "tmdb_id": 318203,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-artista",
+    "title": "El Artista (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/rn4IZogYEW5Rwm8xWelu1uMPa3I.jpg",
+    "tmdb_id": 276117,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-testigo",
+    "title": "El testigo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/10oww9jMTBnDywzieM02BXfpGpp.jpg",
+    "tmdb_id": 280511,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:37"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/incondicional",
+    "title": "Incondicional (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/rTaQPmANiRRQ7ezkzKCiLvwrp7u.jpg",
+    "tmdb_id": 314916,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-lady",
+    "title": "The Lady (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wTeoKQg78IxbSNUApwDN8gEuGdV.jpg",
+    "tmdb_id": 298425,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/among-us",
+    "title": "Among Us (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/o2BNRptz61KZZM9GokIH1lla5Zz.jpg",
+    "tmdb_id": 229544,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/circo-gomez",
+    "title": "Circo Gómez (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/yMacyOdJbrqxXABfzpsIpo28big.jpg",
+    "tmdb_id": 324745,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:40"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rj-decker",
+    "title": "R.J. Decker (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/30DGwOyFu1em2Z9PWMlQlS5aFcG.jpg",
+    "tmdb_id": 302074,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cape-fear",
+    "title": "Cape Fear (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/raCZsl0tmpNjSSWfmTZHfleECDF.jpg",
+    "tmdb_id": 277439,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/ciudad-de-las-estrellas",
+    "title": "Ciudad de las estrellas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/qP4Jb4Cozz36XiGj1sV4Vvzto4j.jpg",
+    "tmdb_id": 252107,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/michael-jackson-el-veredicto",
+    "title": "Michael Jackson: El veredicto (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/dUCfIkJlyGFQzc2HOYu0tKppwuk.jpg",
+    "tmdb_id": 323111,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:43"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/no-aptos-para-el-trabajo",
+    "title": "No aptos para el trabajo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/jNCxoCmUA3RSru461HaygE1HJrh.jpg",
+    "tmdb_id": 284725,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rey-y-conquistador",
+    "title": "Rey y conquistador (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/pg8iky5BscbndCkxBDCRAgoQMBo.jpg",
+    "tmdb_id": 240558,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-cesar",
+    "title": "El César (2017)",
+    "cover": "https://image.tmdb.org/t/p/w342/bWx4VqvzlzQhWKuxxVvHyuIk86D.jpg",
+    "tmdb_id": 74600,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/abandonados",
+    "title": "Abandonados (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/x7PIDqFeGknNRYqYHWEbdeVYhUh.jpg",
+    "tmdb_id": 324050,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:46"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/brasil-70-la-saga-del-tricampeonato",
+    "title": "Brasil 70: La saga del tricampeonato (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/AbacRmw60119iQEiDf0dfseVDuk.jpg",
+    "tmdb_id": 292532,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rafa",
+    "title": "Rafa (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "tmdb_id": 279884,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/james",
+    "title": "James. (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+    "tmdb_id": 321596,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/por-cuatro-perras",
+    "title": "Por cuatro perras (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+    "tmdb_id": 304597,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:49"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/estaremos-bien",
+    "title": "Estaremos Bien (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+    "tmdb_id": 1213582,
+    "tmdb_type": "movie",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/spider-noir",
+    "title": "Spider-Noir (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4Pec5a1At5UMeADkgcxwf6nLqau.jpg",
+    "tmdb_id": 220102,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/deli-boys",
+    "title": "Deli Boys (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
+    "tmdb_id": 226346,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/barrabrava",
+    "title": "Barrabrava (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/67NGCkX3EUg5yY785cQ50zqyw1S.jpg",
+    "tmdb_id": 228963,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:52"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/temporada-de-celo",
+    "title": "Temporada de celo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ryRnj2pDiRkb2UesLsmAKUjPHIs.jpg",
+    "tmdb_id": 290295,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/futuro-desierto",
+    "title": "Futuro desierto (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/q5YqU30cQS9e4yHUm266xBLrHJl.jpg",
+    "tmdb_id": 321594,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/carisima",
+    "title": "Carísima (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "tmdb_id": 321597,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/satisfacci%C3%B3n-garantizada",
+    "title": "Satisfacción garantizada (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/auVDpZYenFLMBJuW1PYGAB1sqQD.jpg",
+    "tmdb_id": 285404,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:55"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-boroughs-jubilacion-rebelde",
+    "title": "The Boroughs: Jubilación rebelde (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "tmdb_id": 224941,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/regular-show-las-cintas-perdidas",
+    "title": "Regular Show: Las cintas perdidas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/fQX1grWHT7W603p2GRQCUGaPs3J.jpg",
+    "tmdb_id": 256695,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/riquisimos-por-cierto",
+    "title": "Riquísimos... Por Cierto (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/PLpehgkyPpooCyVJAhbeiL7yLr.jpg",
+    "tmdb_id": 282954,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rancho-dutton",
+    "title": "Rancho Dutton (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4KTqlq5jwt53LoZdP8ui33TpFaq.jpg",
+    "tmdb_id": 299167,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:58"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/no-es-asi",
+    "title": "No es así (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/bz0NsjCeaYEKqlXnqWD0aOeFgHA.jpg",
+    "tmdb_id": 308402,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 12:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-superfrikis",
+    "title": "Los SUPERfrikis (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/zEZuIW4UDU9OHTwN7zMf8BE5tOF.jpg",
+    "tmdb_id": 259837,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/berlin-y-la-dama-del-armino",
+    "title": "Berlín y la dama del armiño (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/3uhJ3AHKxSsEWe1BUG9pV0bpqna.jpg",
+    "tmdb_id": 308014,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nemesis",
+    "title": "Némesis (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/NY7ZwSMw5PjoJdK2CObqiTj7Bm.jpg",
+    "tmdb_id": 285807,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/entre-padre-e-hijo",
+    "title": "Entre padre e hijo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/oYG6EAnRalQRf0w1JQSGtCpcrNR.jpg",
+    "tmdb_id": 321338,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/locker-diaries-zombies",
+    "title": "Locker Diaries: ZOMBIES (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ysK8HjNiZkkopYyLuFMiqCtQyse.jpg",
+    "tmdb_id": 313973,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cia",
+    "title": "CIA (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "tmdb_id": 289560,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/kiss-me",
+    "title": "Kiss Me (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nckN3sTuvTj8h4H9lj1jGAWwG0U.jpg",
+    "tmdb_id": 76604,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai",
+    "title": "La canción del samurái (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/jK8tPFxzWcWmAANR6B8DG0IVt6x.jpg",
+    "tmdb_id": 302162,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [
+      {
+        "label": "S01E01: Episode #1.1",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/1",
+        "season": 1,
+        "episode": 1,
+        "video_links": []
+      },
+      {
+        "label": "S01E02: Episodio 2",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/2",
+        "season": 1,
+        "episode": 2,
+        "video_links": []
+      },
+      {
+        "label": "S01E03: Episodio 3",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/3",
+        "season": 1,
+        "episode": 3,
+        "video_links": []
+      },
+      {
+        "label": "S01E04: Episodio 4",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/4",
+        "season": 1,
+        "episode": 4,
+        "video_links": []
+      },
+      {
+        "label": "S01E05: Episodio 5",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/5",
+        "season": 1,
+        "episode": 5,
+        "video_links": []
+      },
+      {
+        "label": "S01E06: Episodio 6",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/6",
+        "season": 1,
+        "episode": 6,
+        "video_links": []
+      },
+      {
+        "label": "S01E07: Episodio 7",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/7",
+        "season": 1,
+        "episode": 7,
+        "video_links": []
+      },
+      {
+        "label": "S01E08: Episodio 8",
+        "url": "https://tioplus.app/index%2ephp/serie/la-cancion-del-samurai/season/1/episode/8",
+        "season": 1,
+        "episode": 8,
+        "video_links": []
+      }
+    ],
+    "fecha_scrape": "2026-11-04 13:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/boston-blue",
+    "title": "Boston Blue (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "tmdb_id": 284736,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/jesus",
+    "title": "Jesus (2018)",
+    "cover": "https://image.tmdb.org/t/p/w342/9dkO9nB20g3lkiWgxj7jxg3QDFk.jpg",
+    "tmdb_id": 80825,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mia",
+    "title": "M.I.A. (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/uvocuo6mgQTtNa7O6a3MQoTfuh4.jpg",
+    "tmdb_id": 262388,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-casa-de-los-espiritus",
+    "title": "La casa de los espíritus (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cynTNWEyPbaduRVWDmAwSb69E1L.jpg",
+    "tmdb_id": 259702,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-senor-de-las-moscas",
+    "title": "El señor de las moscas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/o867yrias7YUjEvNrjoeQD97xHP.jpg",
+    "tmdb_id": 270572,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gloria",
+    "title": "Gloria (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nO4mw1xosfkwPz9cdCaqW7mEiZT.jpg",
+    "tmdb_id": 283657,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [
+      {
+        "label": "S01E01: Episodio 1",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/1",
+        "season": 1,
+        "episode": 1,
+        "video_links": []
+      },
+      {
+        "label": "S01E02: Episodio 2",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/2",
+        "season": 1,
+        "episode": 2,
+        "video_links": []
+      },
+      {
+        "label": "S01E03: Episodio 3",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/3",
+        "season": 1,
+        "episode": 3,
+        "video_links": []
+      },
+      {
+        "label": "S01E04: Episodio 4",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/4",
+        "season": 1,
+        "episode": 4,
+        "video_links": []
+      },
+      {
+        "label": "S01E05: Episodio 5",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/5",
+        "season": 1,
+        "episode": 5,
+        "video_links": []
+      },
+      {
+        "label": "S01E06: Episodio 6",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/6",
+        "season": 1,
+        "episode": 6,
+        "video_links": []
+      },
+      {
+        "label": "S01E07: Episodio 7",
+        "url": "https://tioplus.app/index%2ephp/serie/gloria/season/1/episode/7",
+        "season": 1,
+        "episode": 7,
+        "video_links": []
+      }
+    ],
+    "fecha_scrape": "2026-11-04 13:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/half-man",
+    "title": "Half Man (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/mACHtXZphR0JXbNrcEpWjdCSul5.jpg",
+    "tmdb_id": 257994,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gina-yei",
+    "title": "Gina Yei (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/kLsuCzYE3OJR1murUraHTup6WXC.jpg",
+    "tmdb_id": 127573,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios",
+    "title": "Las gotas de Dios (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/3rMwuFVh8VZ8DV17YLVmerZztpC.jpg",
+    "tmdb_id": 218961,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [
+      {
+        "label": "S02E01: El presente",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/1",
+        "season": 2,
+        "episode": 1,
+        "video_links": []
+      },
+      {
+        "label": "S02E02: La misión",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/2",
+        "season": 2,
+        "episode": 2,
+        "video_links": []
+      },
+      {
+        "label": "S02E03: El origen",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/3",
+        "season": 2,
+        "episode": 3,
+        "video_links": []
+      },
+      {
+        "label": "S02E04: Hermano y hermana",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/4",
+        "season": 2,
+        "episode": 4,
+        "video_links": []
+      },
+      {
+        "label": "S02E05: Confía en mí",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/5",
+        "season": 2,
+        "episode": 5,
+        "video_links": []
+      },
+      {
+        "label": "S02E06: El concurso",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/6",
+        "season": 2,
+        "episode": 6,
+        "video_links": []
+      },
+      {
+        "label": "S02E07: Pirro",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/7",
+        "season": 2,
+        "episode": 7,
+        "video_links": []
+      },
+      {
+        "label": "S02E08: Liberación",
+        "url": "https://tioplus.app/index%2ephp/serie/las-gotas-de-dios/season/2/episode/8",
+        "season": 2,
+        "episode": 8,
+        "video_links": []
+      }
+    ],
+    "fecha_scrape": "2026-11-04 13:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/deberia-casarme-con-un-asesino",
+    "title": "¿Debería casarme con un asesino? (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+    "tmdb_id": 318262,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gold-land",
+    "title": "Gold Land (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg",
+    "tmdb_id": 278113,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-maldicion-de-widows-bay",
+    "title": "La maldición de Widow's Bay (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/n019if9Ob29NLATYFLFSQNNWKJg.jpg",
+    "tmdb_id": 270476,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-encantos-del-sinverguenza",
+    "title": "Los encantos del sinvergüenza (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/o5qxoBRhFrBMmpwPGKFJ18KOUbe.jpg",
+    "tmdb_id": 320266,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sociedade-da-virtude-a-serie",
+    "title": "Sociedade da Virtude: A Série (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/sFUK0nVuUQ7JptFAfamnWl3nplz.jpg",
+    "tmdb_id": 320619,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-nena",
+    "title": "La nena (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/v0dOqOT7XlHcPEoZ99lYz1D235D.jpg",
+    "tmdb_id": 281041,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-escalera",
+    "title": "La Escalera (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/jiAcdCyf1UbWYBImcNtVeLW0pRj.jpg",
+    "tmdb_id": 21421,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-isla-del-minotauro",
+    "title": "La isla del minotauro (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/3rWAA1bJq7jeOtGU9B080uCJ3uv.jpg",
+    "tmdb_id": 316832,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-profe",
+    "title": "El profe (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ieFwnQWpI1XYIiYMTFMYNH3ny09.jpg",
+    "tmdb_id": 287978,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/si-los-deseos-mataran",
+    "title": "Si los deseos mataran... (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/UfderQmlqcufq6ZOULpoLmb18y.jpg",
+    "tmdb_id": 285838,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cochinas",
+    "title": "Cochinas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "tmdb_id": 258842,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/stranger-things-relatos-del-85",
+    "title": "Stranger Things: Relatos del 85 (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ssls8OpHHXtHcvIy7AiXipBddQX.jpg",
+    "tmdb_id": 224263,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hulk-hogan-real-american",
+    "title": "Hulk Hogan: Real American (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "tmdb_id": 318880,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/santita",
+    "title": "Santita (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "tmdb_id": 290230,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/margo-tiene-problemas-de-dinero",
+    "title": "Margo tiene problemas de dinero (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/zqUvfOQtaffnkQL0ZVKPD7Z1KIR.jpg",
+    "tmdb_id": 245318,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-testamentos",
+    "title": "Los testamentos (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/h5f0Apc2aENV2IMegrPHIhQMice.jpg",
+    "tmdb_id": 287527,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-no-elegidos",
+    "title": "Los no elegidos (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cssRL2zNmTlxrvDNpKHBEV2FkAs.jpg",
+    "tmdb_id": 262848,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-chica-nueva-el-reinicio",
+    "title": "La chica nueva: El reinicio (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wlqM6zg6tI177njuc7f82wx34Nd.jpg",
+    "tmdb_id": 310935,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/kevin",
+    "title": "Kevin (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ryvkioE754XooFO16s9SZyHZulu.jpg",
+    "tmdb_id": 255760,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/gray",
+    "title": "Gray (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/6u0kpkkEvIIOf4n5OMGVPGUAxHq.jpg",
+    "tmdb_id": 235727,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-miniature-wife",
+    "title": "The Miniature Wife (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+    "tmdb_id": 250220,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bandi",
+    "title": "Bandi (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nlmIwihKTLm6d1yLFWVmTiqjKTR.jpg",
+    "tmdb_id": 269161,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/malcolm-in-the-middle-la-vida-sigue-siendo-injusta",
+    "title": "Malcolm in the Middle: La Vida Sigue Siendo Injusta (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/aqyDyaUhu2nso7a8iv2yidMMwZ1.jpg",
+    "tmdb_id": 279471,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:37"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/genesis",
+    "title": "Gênesis (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/7xc7FI44QTp94oQk6pBjB4NkMN0.jpg",
+    "tmdb_id": 115645,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/star-wars-maul-senor-de-las-sombras",
+    "title": "Star Wars: Maul - Señor de las sombras (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/9T4ECKFMBWqT7msxdaCGtsa3g5R.jpg",
+    "tmdb_id": 289219,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-pecados-de-kujo",
+    "title": "Los pecados de Kujo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/276nOduPN10I05ajiQdoq6NQBcU.jpg",
+    "tmdb_id": 303405,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/privilegios",
+    "title": "Privilegios (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cjJBNmSLqwhDL5nob2xu6nMOQgp.jpg",
+    "tmdb_id": 283853,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:40"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-agente-divino",
+    "title": "El agente divino (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/efFwhZ9uOCYVG3VSjBoLBqRypDv.jpg",
+    "tmdb_id": 213703,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mar-de-fondo",
+    "title": "Mar de fondo (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/foiFPMRFvPU3pgUPyCnb9iT93Dg.jpg",
+    "tmdb_id": 203616,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/o11ce-nueva-generacion",
+    "title": "O11CE: Nueva generación (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/hqfAbHeJ5cIGz8gzwuIvuYn9O7z.jpg",
+    "tmdb_id": 315939,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-asesinos-de-colosio",
+    "title": "Los Asesinos de Colosio (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/w0nQWuSDX5wO0LWyHQkpiI7konU.jpg",
+    "tmdb_id": 316961,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:43"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bait",
+    "title": "Bait (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/gX9zWmUnrjCZEPpultvvFtSUb93.jpg",
+    "tmdb_id": 257519,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/deber-de-jurado-presenta-retiro-de-empresa",
+    "title": "Deber de jurado presenta: Retiro de empresa (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nunEk2OXJWMaqZVYYmpY5emuZR3.jpg",
+    "tmdb_id": 312697,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/deadloch",
+    "title": "Deadloch (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/7rI7T4AfSzOx0Rqw73AusyIpeXf.jpg",
+    "tmdb_id": 225780,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/emergencia-radiactiva",
+    "title": "Emergencia radiactiva (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/u21TjnyVRB3hxrvvC0Ia2NHgJX8.jpg",
+    "tmdb_id": 292474,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:46"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mujeres-imperfectas",
+    "title": "Mujeres imperfectas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/hD3M24I0AJm0ZKzrZ0N7p18fkPO.jpg",
+    "tmdb_id": 108181,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-primera-vez",
+    "title": "La primera vez (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/ujXZwXjltIBz6FbMbCMg9Tbf3v0.jpg",
+    "tmdb_id": 219063,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-dinosaurios",
+    "title": "Los dinosaurios (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/jr0MS8g4Dq3nwZQXDo5BeaP9ypu.jpg",
+    "tmdb_id": 313298,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/esa-noche",
+    "title": "Esa noche (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/2N0zVirrHWkNPQGEBcXVIqj5BKJ.jpg",
+    "tmdb_id": 283673,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:49"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-madison",
+    "title": "The Madison (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/nZVRyqVbDqfLSOrLcsGGTUHccZ8.jpg",
+    "tmdb_id": 225891,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/day-one",
+    "title": "Day One (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/m4eL0zSNElpM8g1kFA6PE5TfVZS.jpg",
+    "tmdb_id": 285386,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-oficina",
+    "title": "La oficina (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/uUEPJHIGiNeV69RIco01j5Yqu1F.jpg",
+    "tmdb_id": 275202,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/scarpetta",
+    "title": "Scarpetta (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/35EbNCepwjLr9AmFUn5VGcHXHIX.jpg",
+    "tmdb_id": 240740,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:52"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hola-clase",
+    "title": "Hola, clase (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/sBprJ6cIkWWKl4ABWgxNDKxe9kL.jpg",
+    "tmdb_id": 313100,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/polen",
+    "title": "Polen (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/uryZoVG1QHY9l07oB6HcipRkSy3.jpg",
+    "tmdb_id": 315051,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rooster",
+    "title": "Rooster (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "tmdb_id": 254953,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/batalla-de-adivinos",
+    "title": "Batalla de adivinos (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4bjJszuyppvzBywOVUDcqfz0VI2.jpg",
+    "tmdb_id": 313289,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:55"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/agent-p-under-c",
+    "title": "Agent P, Under C (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/sCwhaa1h1Q85548mcJrSNtkUpdU.jpg",
+    "tmdb_id": 309792,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/blue-therapy",
+    "title": "Blue Therapy (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/H8K1osuUf7OsMbtSVPvXJlcnWS.jpg",
+    "tmdb_id": 314297,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-beso-de-la-sirena",
+    "title": "El beso de la sirena (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/x4Se5oHeTmA6NuDuYVP2nQWTjtU.jpg",
+    "tmdb_id": 310800,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dtf-st-louis",
+    "title": "DTF St. Louis (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "tmdb_id": 206828,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:58"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/furtivo",
+    "title": "Furtivo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/9StRZHTEUnBCYcTtFFrzLaq0XaA.jpg",
+    "tmdb_id": 257992,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-joven-sherlock",
+    "title": "El joven Sherlock (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/w426ObBzvHyTISiAqaeMujydmpi.jpg",
+    "tmdb_id": 255661,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 13:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/marshals-una-historia-de-yellowstone",
+    "title": "Marshals: Una historia de Yellowstone (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/eYY0w7tyAQrwoAT6fpw8gIxeWhv.jpg",
+    "tmdb_id": 290856,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lo-ultimo-que-me-dijo",
+    "title": "Lo último que me dijo (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/80W0IJWbsrtQNARo7yiL3Dmt1JP.jpg",
+    "tmdb_id": 201289,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-flow-de-kagoen",
+    "title": "Todo por un pato (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/9XXKr1vEgodDhfEW5slzcwwUIuS.jpg",
+    "tmdb_id": 276083,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-de-siempre",
+    "title": "Las de siempre (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/aP4EGptIlbfWNgbcim5tcxu8y9b.jpg",
+    "tmdb_id": 310954,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/banqueros",
+    "title": "Banqueros (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/m6wWJFDOHGTDfwucvFGpE1OfcYm.jpg",
+    "tmdb_id": 56789,
+    "tmdb_type": "movie",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-ley-de-las-vegas",
+    "title": "La ley de Las Vegas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/b9vgEJB9pHpILr5mUYcAxuTavCh.jpg",
+    "tmdb_id": 298343,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/love-story-john-f-kennedy-jr-y-carolyn-bessette",
+    "title": "Love Story: John F. Kennedy Jr. y Carolyn Bessette (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/7WU3cXD0rip5ONc7owI2dBWAVjW.jpg",
+    "tmdb_id": 131142,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/portobello",
+    "title": "Portobello (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/mS6rJQXFDHk5ZHz6oisEuudpmAo.jpg",
+    "tmdb_id": 218557,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/memoria-de-un-asesino",
+    "title": "Memoria de un Asesino (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/79EO16C4zs8fwxKEjRENVvIQHIB.jpg",
+    "tmdb_id": 291339,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:06"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/56-dias",
+    "title": "56 días (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/sq7dGBq8yqtEouPyyMDfz2HFwjO.jpg",
+    "tmdb_id": 241372,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:07"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/clone-high",
+    "title": "Clone High (2002)",
+    "cover": "https://image.tmdb.org/t/p/w342/bk8iJzK1sGN74UNImSjtUhxVmDY.jpg",
+    "tmdb_id": 2342,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bodas-sa",
+    "title": "Bodas S.A. (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/vtp9FpOaytrMs6y4m8xREl6icah.jpg",
+    "tmdb_id": 313935,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-museo-de-la-inocencia",
+    "title": "El Museo de la Inocencia (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/7p081gpYZLuEOh0ExCZTajjv7c8.jpg",
+    "tmdb_id": 310239,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/como-llegar-al-cielo-desde-belfast",
+    "title": "Cómo llegar al cielo desde Belfast (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/8vwM2mrOWgREjM28YblxuuVIrlF.jpg",
+    "tmdb_id": 233079,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-investigador-con-millones-de-seguidores",
+    "title": "El investigador con millones de seguidores (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/bEUIoWHzkcxkrIEAqDZtVSKCuyS.jpg",
+    "tmdb_id": 206494,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/motorvalley",
+    "title": "Motorvalley (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/dJhLe1XSlIhetCsArAzgubg2aD5.jpg",
+    "tmdb_id": 283370,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/ninos-de-plomo",
+    "title": "Niños de plomo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ous8IYSqDHNd8gOJDDQBL3kNqqW.jpg",
+    "tmdb_id": 270444,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:12"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cross",
+    "title": "Cross (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/5bPu59SvLNxW27UUKluGZ5FfpDL.jpg",
+    "tmdb_id": 213306,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:13"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/niebla-de-invierno",
+    "title": "Niebla de invierno (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/vI23w796RfqWHlRKEcN4N6bD2DY.jpg",
+    "tmdb_id": 230034,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/desaparecida",
+    "title": "Desaparecida (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/gVsyxeo4FIheF6Xn6oufphVxASY.jpg",
+    "tmdb_id": 287231,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-burbs",
+    "title": "The 'Burbs (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/3N1xf6PoFLY47mHGFK3WJAhzO9Y.jpg",
+    "tmdb_id": 270600,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hermanas-un-amor-compartido",
+    "title": "Hermanas, un amor compartido (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wyumt3DAtHs9X8siZsopH7FjKLl.jpg",
+    "tmdb_id": 310198,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/mas-que-rivales",
+    "title": "Más que rivales (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/epgr7n61vVIniyAghz2GYj22DkC.jpg",
+    "tmdb_id": 301507,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/unfamiliar",
+    "title": "Unfamiliar (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/cdXNPeSidTtc8JG24K7oq7vcab8.jpg",
+    "tmdb_id": 274776,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-leonas",
+    "title": "Las Leonas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ipTJZvrpU9w5wI7uOujrHSXvF0r.jpg",
+    "tmdb_id": 269160,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:18"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dona-beja",
+    "title": "Dona Beja (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/eN3jw7AEOwNtTQTsGVHlEPvs6OC.jpg",
+    "tmdb_id": 152401,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:19"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/campamento-lakebottom",
+    "title": "Campamento Lakebottom (2013)",
+    "cover": "https://image.tmdb.org/t/p/w342/hkaJtN27gY7UqgzyPiZ0DEZGzGp.jpg",
+    "tmdb_id": 55924,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/legitima-defensa",
+    "title": "Legítima defensa (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/pvQt3LEajjXmpVZwrlypPcYY0yz.jpg",
+    "tmdb_id": 256711,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-maravillosamente-extrano-mundo-de-gumball",
+    "title": "El maravillosamente extraño mundo de Gumball (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/zjon4kGt6L6mYu04fKVr0u07Fte.jpg",
+    "tmdb_id": 291904,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/wonder-man",
+    "title": "Wonder Man (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/aeY9wKbWHepbnqw4qoDD1MdY6xQ.jpg",
+    "tmdb_id": 198178,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/historias-de-la-biblia",
+    "title": "Historias de la Biblia (1997)",
+    "cover": "https://image.tmdb.org/t/p/w342/8QImBKpwJdb5iQwHwVrXXbZSAu8.jpg",
+    "tmdb_id": 78348,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/made-in-korea",
+    "title": "Made in Korea (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/7sTnLKLRyOL91WNKJeOHjdddiTk.jpg",
+    "tmdb_id": 246473,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/ponies",
+    "title": "Ponies (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/rwKS6rSAqMGnXwBVteYkHxeDLWX.jpg",
+    "tmdb_id": 262793,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-biblia",
+    "title": "La Biblia (2013)",
+    "cover": "https://image.tmdb.org/t/p/w342/nEG1GxdE8ct4Zp3cQuhw20daKgi.jpg",
+    "tmdb_id": 43899,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-mochaorejas",
+    "title": "El Mochaorejas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/63F8FdYQ3qbVljzLderQOLevTME.jpg",
+    "tmdb_id": 312182,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bailando-sobre-hielo",
+    "title": "Bailando sobre hielo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/rundKWddXHke82ee8Sv9KJmuGhn.jpg",
+    "tmdb_id": 281401,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/belleza-perfecta",
+    "title": "Belleza perfecta (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/52OoN8hj5jSllNxZRACxIVIenuG.jpg",
+    "tmdb_id": 273160,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-robo",
+    "title": "El robo (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/txcrTTjG5hCo7oYl4J8hsIyBFxu.jpg",
+    "tmdb_id": 254071,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-principe-del-barrio",
+    "title": "El Principe del Barrio (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/fT2ijnNz7nG6o3ch84JrvOOeBiu.jpg",
+    "tmdb_id": 229590,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-isla-de-la-fantasia",
+    "title": "La Isla de la Fantasía (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/3kVeYZARsnAjBY7FYzQ0fZeG3Fw.jpg",
+    "tmdb_id": 125116,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-maestro-de-la-evasion",
+    "title": "El maestro de la evasión (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/oV8nyHfht7kyuxpV757QSH3M9ls.jpg",
+    "tmdb_id": 202208,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-caballero-de-los-siete-reinos",
+    "title": "El caballero de los Siete Reinos (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/uB0v0sqbOGjj7MZZ9sb2vYnUVP3.jpg",
+    "tmdb_id": 224372,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/como-se-traduce-este-amor",
+    "title": "¿Cómo se traduce este amor? (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/137LutbAUIPPE1WJXMDB1UzZYIr.jpg",
+    "tmdb_id": 229891,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lol-buscando-talento",
+    "title": "LOL Buscando Talento (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/70l4rLm9JHMoVncvfizfL8OT5CS.jpg",
+    "tmdb_id": 309714,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/amar-perder",
+    "title": "Amar, perder (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/9R5DrduOSlsPlqd6L6r7almXLpX.jpg",
+    "tmdb_id": 310045,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hijack",
+    "title": "Hijack (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+    "tmdb_id": 198102,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/star-trek-starfleet-academy",
+    "title": "Star Trek: Starfleet Academy (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/zrFh4BaFVjiAlYaD133LVHprhNQ.jpg",
+    "tmdb_id": 223530,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/vgly",
+    "title": "Vgly (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/SYvwtsk4vWPAtB0wlgLlecWCFc.jpg",
+    "tmdb_id": 226241,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/orillese-a-la-orilla",
+    "title": "Oríllese a la Orilla (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/lFa1YB7SmmFz998SfppCmlAD3ov.jpg",
+    "tmdb_id": 259017,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-pareja-de-al-lado",
+    "title": "La pareja de al lado (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/hBNFSeTZXANnOrNfvvIqXORBrxV.jpg",
+    "tmdb_id": 223438,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:37"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/spartacus-gods-of-the-arena",
+    "title": "Spartacus: Gods of the Arena (2011)",
+    "cover": "https://image.tmdb.org/t/p/w342/qvDJ6K9T3vlxXTLFGSzUqaKj8lO.jpg",
+    "tmdb_id": 46296,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/pelayo-mas-alla-del-limite",
+    "title": "Pelayo: Más allá del límite (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/v67psAkZonctWpttKDVgopakQvC.jpg",
+    "tmdb_id": 308606,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/girl-taken",
+    "title": "Girl Taken (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/wUvw2WuH9kll5ZqPR8VTNhSczSN.jpg",
+    "tmdb_id": 296523,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-y-ella",
+    "title": "Él y ella (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/ftShkii3dOgj52aaT8el2owqlFC.jpg",
+    "tmdb_id": 259731,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:40"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/spawn",
+    "title": "Spawn (1997)",
+    "cover": "https://image.tmdb.org/t/p/w342/5cVPGuo2wiWr1JdJRNhtW9jAja8.jpg",
+    "tmdb_id": 10331,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/amor-de-oficina",
+    "title": "Amor De Oficina (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/drpeMcOyFlaoSP2R5ZkWgbqLfDK.jpg",
+    "tmdb_id": 290231,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-tiempo-de-las-moscas",
+    "title": "El tiempo de las moscas (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/9n2HM0guy6Wn95EshDj7Uw6XWd2.jpg",
+    "tmdb_id": 285636,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-colorado",
+    "title": "Los Colorado (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/4HV6Vd3QL9C29SZF4KBJ499bUet.jpg",
+    "tmdb_id": 294344,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:43"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-tierra-del-pecado",
+    "title": "La tierra del pecado (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/Hb0TgRRIrwC9qRo4UkT2ZmbFj0.jpg",
+    "tmdb_id": 272586,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/en-fuga",
+    "title": "En fuga (2026)",
+    "cover": "https://image.tmdb.org/t/p/w342/auBp8c189r2G5rd34wbwQ18YwHa.jpg",
+    "tmdb_id": 244244,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/smiling-friends",
+    "title": "Smiling Friends (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg",
+    "tmdb_id": 126506,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/efectos-secundarios",
+    "title": "Efectos secundarios (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/9f0vthsiAS3OpTbIbH9qpCzAL3A.jpg",
+    "tmdb_id": 228878,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:46"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/domenica-montero",
+    "title": "Doménica Montero (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/kw2hp00YNXgYSXqYZSyJtXkXNpU.jpg",
+    "tmdb_id": 307423,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-hombre-de-tu-vida",
+    "title": "El hombre de tu vida (2011)",
+    "cover": "https://image.tmdb.org/t/p/w342/rQM5AFU0CCem2vQYeugM8JZjPla.jpg",
+    "tmdb_id": 74643,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/vientos-de-agua",
+    "title": "Vientos de agua (2006)",
+    "cover": "https://image.tmdb.org/t/p/w342/fco3uj8dOGxGae7RHsKi0mdxYqU.jpg",
+    "tmdb_id": 15937,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/yiya",
+    "title": "Yiya (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8E8FlEdVZzS1tuItZKGgvv8kpQc.jpg",
+    "tmdb_id": 305332,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:49"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-hunting-wives",
+    "title": "The Hunting Wives (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/knR0tDKgFwsUMxe0MqZSWQYhwpL.jpg",
+    "tmdb_id": 244447,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-sustos-ocultos-de-frankelda",
+    "title": "Los sustos ocultos de Frankelda (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/AjtosKqo8FLlqt5mEPShnA94ksL.jpg",
+    "tmdb_id": 137720,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/high-desert",
+    "title": "High Desert (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/kj4XQzhszyu4YFQ9HgN3iQOCp4A.jpg",
+    "tmdb_id": 116793,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bupkis",
+    "title": "Bupkis (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/y2hAQhAwE9fRe4cpq2OrcPLRxNO.jpg",
+    "tmdb_id": 208953,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:52"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dark-winds",
+    "title": "Dark Winds (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+    "tmdb_id": 128904,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/kc-agente-especial",
+    "title": "K.C. Agente especial (2015)",
+    "cover": "https://image.tmdb.org/t/p/w342/dTL0U0nQE3vJ5pnkZ9XhFomUrh2.jpg",
+    "tmdb_id": 61915,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/familia-typhoon",
+    "title": "Familia Typhoon (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/k60BloWxlWTpVumWR4cioC8OLi1.jpg",
+    "tmdb_id": 280946,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-abandonados",
+    "title": "Los abandonados (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/wZScARSgDCrGuqXTqHQvKBgz2Lt.jpg",
+    "tmdb_id": 223300,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:55"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/spartacus-house-of-ashur",
+    "title": "Spartacus: House of Ashur (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vNByuzy60v31nmUVPMA8oAtneUK.jpg",
+    "tmdb_id": 240459,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/loot",
+    "title": "Loot (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/p76vRTPXF5ioTv5lTlnGhOCA9fu.jpg",
+    "tmdb_id": 197449,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/planeta-prehistorico",
+    "title": "Planeta prehistórico (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/u7Ulem8hT8nKVPvYlTeNLoWXfvk.jpg",
+    "tmdb_id": 95171,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/physical",
+    "title": "Physical (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/rViN9CbQcR1QB04c2D34m1O6KvX.jpg",
+    "tmdb_id": 119181,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:58"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/monzon",
+    "title": "Monzón (2019)",
+    "cover": "https://image.tmdb.org/t/p/w342/pe7UoaPBmhoZUZHu5wa1s5OV11N.jpg",
+    "tmdb_id": 90614,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 14:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/fireflies",
+    "title": "Fireflies (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8XKsf122xqHVZhJSqvU0JkwWan0.jpg",
+    "tmdb_id": 16841,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/yakarta",
+    "title": "Yakarta (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/7rNcKAo9Bwgn0oVQ6NT0qpHkc6l.jpg",
+    "tmdb_id": 287358,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bel-air",
+    "title": "Bel-Air (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+    "tmdb_id": 107365,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/power-book-ii-ghost",
+    "title": "Power Book II: Ghost (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/jAjIzf0hQwWVoBo80rnGUdKccTO.jpg",
+    "tmdb_id": 97890,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hija-del-fuego-la-venganza-de-la-bastarda",
+    "title": "Hija del fuego: La venganza de la bastarda (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/nrwQWrbSwYG4Uit2V7I8HndlOAR.jpg",
+    "tmdb_id": 304790,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/pacto-de-sangre",
+    "title": "Pacto de Sangre (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/osWMdNuzXl20u9c79UUc2bfUHq8.jpg",
+    "tmdb_id": 239279,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-mighty-nein",
+    "title": "The Mighty Nein (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/qJTZanXDiJKABLNGRM9LmSg8YT7.jpg",
+    "tmdb_id": 219080,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/pluribus",
+    "title": "Pluribus (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/stkYbERuo2YYuay37rYaE41Izyu.jpg",
+    "tmdb_id": 225171,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-undoing",
+    "title": "The Undoing (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/mZk4RXjXLJxRAoQR8mfNDYtv7u1.jpg",
+    "tmdb_id": 83851,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:06"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/power",
+    "title": "Power (2014)",
+    "cover": "https://image.tmdb.org/t/p/w342/ctftzvyj8b0odco7EoS9VfJhf7K.jpg",
+    "tmdb_id": 54650,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:06"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lego-marvel-avengers-historias-extranas",
+    "title": "LEGO Marvel Avengers: Historias extrañas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/6MhzH93izyEvVO15qgM8UJNvY4z.jpg",
+    "tmdb_id": 305165,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:07"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-empresa-de-sillas",
+    "title": "La empresa de sillas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/s5RdPN4b9nzs9V6eRi6WKfijQpf.jpg",
+    "tmdb_id": 271267,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-deshielo",
+    "title": "El deshielo (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/4vP54uZTDAnycDyVwp0i6L9jWmN.jpg",
+    "tmdb_id": 99145,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hasta-que-la-plata-nos-separe",
+    "title": "Hasta que la plata nos separe (2006)",
+    "cover": "https://image.tmdb.org/t/p/w342/vsg1BiSfwUP5ujM5zYMcXvYLwqR.jpg",
+    "tmdb_id": 100087,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/malicia",
+    "title": "Malicia (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/fKhHzRk1VIJY1nz1cRhAfAaYfnA.jpg",
+    "tmdb_id": 244416,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/muerte-en-la-familia-murdaugh",
+    "title": "Muerte en la familia Murdaugh (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/mkZNdwSZ1Gk4Z8c1jnZPaWBFP6r.jpg",
+    "tmdb_id": 270734,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/me-late-que-si",
+    "title": "Me late que sí (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/2frfO6pr8i1Oh1iakIFRrLQGEK9.jpg",
+    "tmdb_id": 283392,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:12"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-ultimo-samurai-en-pie",
+    "title": "El último samurái en pie (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/qEm5qyanHN1VUN3hMwh3Zg2Qnqz.jpg",
+    "tmdb_id": 252193,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:12"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/crutch",
+    "title": "Crutch (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg",
+    "tmdb_id": 253750,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:13"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sra-playmen",
+    "title": "Sra. Playmen (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/uxI6kVyiS6nThUZwV80nhygzU6E.jpg",
+    "tmdb_id": 301001,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/kim-possible",
+    "title": "Kim Possible (2002)",
+    "cover": "https://image.tmdb.org/t/p/w342/xAIm6KkiQKl0UsagMUyhLFzX2X2.jpg",
+    "tmdb_id": 2345,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/fortnite-x-los-simpson",
+    "title": "Fortnite x Los Simpson (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/iZXi8307L1a3EkIdNP4HLoAM8bw.jpg",
+    "tmdb_id": 304530,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/juan-gabriel-debo-puedo-y-quiero",
+    "title": "Juan Gabriel: Debo, puedo y quiero (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/c9rfR44NJIQTtWXpBXkYXqupgfr.jpg",
+    "tmdb_id": 283396,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bat-fam",
+    "title": "BAT-FAM (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ag59EsF8zvt2YzT82JgLMoAhtq9.jpg",
+    "tmdb_id": 225361,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/complices",
+    "title": "Cómplices (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/c7yYQjNMzRmqKbTzPn4hUkSBZ6G.jpg",
+    "tmdb_id": 305135,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:18"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-friday-the-13th-murders",
+    "title": "The Friday the 13th Murders (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/nKiGQ9UOgUw8sw7sPO0dQogg6l8.jpg",
+    "tmdb_id": 301147,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:18"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-huesped",
+    "title": "La huésped (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3mmN6KxbURjPbalFzWIop79SzPa.jpg",
+    "tmdb_id": 297464,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:19"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/all-her-fault",
+    "title": "All Her Fault (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/o8vZKZlc8H4OcgpbJuqP0iK4B2.jpg",
+    "tmdb_id": 246386,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/parenthood",
+    "title": "Parenthood (2010)",
+    "cover": "https://image.tmdb.org/t/p/w342/9KjKLJrrUI1sU9bNsQaQ5H8kTyY.jpg",
+    "tmdb_id": 21762,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/son-of-a-donkey",
+    "title": "Son of a Donkey (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/79IS51gwR4WCRMYlRj6ojX9ZDaG.jpg",
+    "tmdb_id": 255803,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-tipos-malos-malos-comienzos",
+    "title": "Los tipos malos: Malos comienzos (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ycdB6a7XGLhJjpkBFaRTLsGKw7H.jpg",
+    "tmdb_id": 302540,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/muerte-por-un-rayo",
+    "title": "Muerte por un rayo (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/YJzH2fGt96ExpRNcIp1yyTqB3n.jpg",
+    "tmdb_id": 245219,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/simplemente-alicia",
+    "title": "Simplemente Alicia (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/xV0dzVfaYgqWBnKVNWWyZk2YdrE.jpg",
+    "tmdb_id": 302723,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/manipulado",
+    "title": "Manipulado (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/frwRfDaBCGjXjUlvER2P2n8oh2u.jpg",
+    "tmdb_id": 239385,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/heweliusz",
+    "title": "Heweliusz (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/uz8xeDph9jD5JD3kGiktOcRwAI3.jpg",
+    "tmdb_id": 217528,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-misterio-de-cemetery-road",
+    "title": "El misterio de Cemetery Road (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/bvqQ1MGg2WjZWQ2QEd0vMRvqm2L.jpg",
+    "tmdb_id": 252000,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/todas-las-de-la-ley",
+    "title": "Todas las de la ley (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/cknig3ABB0NMVRjAnFrX6LUjw9M.jpg",
+    "tmdb_id": 258742,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/humans",
+    "title": "Humans (2015)",
+    "cover": "https://image.tmdb.org/t/p/w342/iBjjSGgnjAQBSQGO9pYIh7Gp2PO.jpg",
+    "tmdb_id": 62822,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/robin-hood",
+    "title": "Robin Hood (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3teWChNzKJdbfen46IdeKTygdZa.jpg",
+    "tmdb_id": 272418,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-duenos-del-juego",
+    "title": "Los dueños del juego (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/v2XU2g7BmTlsQwCvSOKNIqDTeW4.jpg",
+    "tmdb_id": 282440,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-agente-encubierta",
+    "title": "La agente encubierta (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",
+    "tmdb_id": 262920,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-imperio-de-amsterdam",
+    "title": "El imperio de Ámsterdam (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8qaf4GIj6Nt5lMMe5rycQRpiaNd.jpg",
+    "tmdb_id": 249586,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/rabo-de-pixie",
+    "title": "Rabo de Pixie (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/iiREYxj1PLyOsvzmktrct0iSA2a.jpg",
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-new-pope",
+    "title": "The New Pope (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/rYjykBwLClPb0WeUP94f3EHZA4k.jpg",
+    "tmdb_id": 88408,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/tremembe",
+    "title": "Tremembé (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/eVqBFACBpovk0sEtjx3HEb3jOYS.jpg",
+    "tmdb_id": 279013,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-conjura-contra-america",
+    "title": "La conjura contra América (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/e1wwMSLARFqCuFHTd3mSyFW0Nzx.jpg",
+    "tmdb_id": 83870,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dime-tu-nombre",
+    "title": "Dime tu nombre (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vAmcxOxKX1n4njoj5i5w9atZj4c.jpg",
+    "tmdb_id": 248488,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/jason-y-los-argonautas",
+    "title": "Jason y los Argonautas (2000)",
+    "cover": "https://image.tmdb.org/t/p/w342/pYXkdXyqnmKFf01Yi6MkbfMczhv.jpg",
+    "tmdb_id": 25406,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:35"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-favorita-1922",
+    "title": "La favorita 1922 (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/94uiB60CxfqgvlIxNfuoAS5xUUf.jpg",
+    "tmdb_id": 244432,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/cenas-de-um-crime",
+    "title": "Cenas de um Crime (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/iZezQhv4QhjFqDI205zNUziqcCd.jpg",
+    "tmdb_id": 301612,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:36"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/it-bienvenidos-a-derry",
+    "title": "It: Bienvenidos a Derry (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ckXiw9Ns4Bs32DGGtTCKdX41sau.jpg",
+    "tmdb_id": 200875,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:37"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/parish",
+    "title": "Parish (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/iV1YDLXuJHwhxF85zwaTxXyrzN6.jpg",
+    "tmdb_id": 194741,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:38"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lazarus-de-harlan-cobens",
+    "title": "Lazarus de Harlan Coben's (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/7GbL581AKUC52oN5yGqwn1SZfn0.jpg",
+    "tmdb_id": 245827,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/devil-in-disguise-john-wayne-gacy",
+    "title": "Devil in Disguise: John Wayne Gacy (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vsXSxLYsAq0VsjWIMRpQGorjLjh.jpg",
+    "tmdb_id": 257534,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:39"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-chosen-adventures",
+    "title": "The Chosen Adventures (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ma3l76nAJYaORESgyEKugbehaiT.jpg",
+    "tmdb_id": 292323,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:40"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-39",
+    "title": "Los 39 (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/h7FTAgA5RVBDEd3escU4gMgpWP1.jpg",
+    "tmdb_id": 302635,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:41"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-last-frontier-conspiracion-en-alaska",
+    "title": "The Last Frontier: Conspiración en Alaska (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/1ExF0JVOrWGeoupDDQcc5MD9pnV.jpg",
+    "tmdb_id": 221079,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dinastia-casillas",
+    "title": "Dinastia Casillas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3REP5E0zrgrcbuD54MKILOoQML2.jpg",
+    "tmdb_id": 302463,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:42"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/vampirina-un-insti-de-miedo",
+    "title": "Vampirina: Un insti de miedo (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/7iwJ62wkZnAssbMPo7fBI53ILll.jpg",
+    "tmdb_id": 275722,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:43"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nadie-nos-vio-partir",
+    "title": "Nadie nos vio partir (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/nOjhJqlWYDZHuskzGmZKdgoxlXN.jpg",
+    "tmdb_id": 246027,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:44"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/%C3%A2ngela-diniz:-assassinada-e-condenada",
+    "title": "Ângela Diniz: Assassinada e Condenada (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vv06mGgXN8nJ6N7BRWAMRf41dRY.jpg",
+    "tmdb_id": 260637,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/splinter-cell-deathwatch",
+    "title": "Splinter Cell: Deathwatch (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/tgKYnJlze79IUKkPmtsW2nSUeeB.jpg",
+    "tmdb_id": 127366,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:45"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/un-extrano-enemigo",
+    "title": "Un Extraño Enemigo (2018)",
+    "cover": "https://image.tmdb.org/t/p/w342/1eEj4bFBvIz62uzsq8JvTQ0ry0g.jpg",
+    "tmdb_id": 82297,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:46"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lady-la-vendedora-de-rosas",
+    "title": "Lady, La Vendedora De Rosas (2015)",
+    "cover": "https://image.tmdb.org/t/p/w342/hkiNJTUqgltJvqEpFP1QpzuujO2.jpg",
+    "tmdb_id": 92396,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:47"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/sin-frenos",
+    "title": "Sin frenos (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3IeuYKkzf7AyilTXOKYMqjMDht8.jpg",
+    "tmdb_id": 301625,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/verdaderamente-aterrador",
+    "title": "Verdaderamente aterrador (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/lHKregDsJV2l6saGItGjE6qpnQe.jpg",
+    "tmdb_id": 300999,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:48"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/kurukshetra-la-gran-guerra-del-mahabharata",
+    "title": "Kurukshetra: La gran guerra del Mahabharata (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/s1xk9u3XqaFKjcNktDq2EzobPBB.jpg",
+    "tmdb_id": 300894,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:49"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/reclutas",
+    "title": "Reclutas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg",
+    "tmdb_id": 225647,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:50"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/nero",
+    "title": "Néro (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/twNHmxeFkDEdGzYMeGTp9stoGUC.jpg",
+    "tmdb_id": 249551,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-estacion-de-las-chicas-perdidas",
+    "title": "La estación de las chicas perdidas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/rluDNclq0gQaQjbDuTDvsnYSXxs.jpg",
+    "tmdb_id": 237052,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:51"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-suerte-una-serie-de-casualidades",
+    "title": "La suerte: Una serie de casualidades (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/uTVhABBMuGUoIy5ttHwUm66lGIs.jpg",
+    "tmdb_id": 242907,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:52"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/dr-seuss-horton",
+    "title": "Dr. Seuss: ¡Horton! (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/cMKDOL9mke4NXB0iqGHzF6AUuKy.jpg",
+    "tmdb_id": 293205,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:53"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-nueva-brigada",
+    "title": "La nueva brigada (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/axSGysoo3CW3P1QnAxQrY1h7kWq.jpg",
+    "tmdb_id": 271128,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-calling",
+    "title": "The Calling (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/yjc3yqr4zj228aWdgQa5wZqTPam.jpg",
+    "tmdb_id": 156473,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:54"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/wolf-pack",
+    "title": "Wolf Pack (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/rbCANmS1ogweUkIBghP03EHtdHB.jpg",
+    "tmdb_id": 134865,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:55"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-novia-gitana",
+    "title": "La novia gitana (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/19fHrTQ39NUqwwGl0JFsPv3gsIh.jpg",
+    "tmdb_id": 128020,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:56"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/bienvenidos-al-lolita",
+    "title": "Bienvenidos al Lolita (2014)",
+    "cover": "https://image.tmdb.org/t/p/w342/xPGEfEftpBFVcKKJOrxP1FsblFs.jpg",
+    "tmdb_id": 62434,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/winx-club-vuelve-la-magia",
+    "title": "Winx Club: Vuelve la magia (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/A9jCF5PripUrAu0CY7SEVfJInHm.jpg",
+    "tmdb_id": 286822,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:57"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/parallel-me",
+    "title": "Parallel Me (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/m8KhWl1kKvxj5iWLEThGZBhbmgU.jpg",
+    "tmdb_id": 282197,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:58"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/monstruo-la-historia-de-ed-gein",
+    "title": "Monstruo: La historia de Ed Gein (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/2RVFksm4DF17XZSXMVbNh1qDSOr.jpg",
+    "tmdb_id": 286801,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 15:59"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hombres-de-verdad",
+    "title": "Hombres de verdad (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/hXJkOzDa7jK6nuC2AJ6PxUP0FuN.jpg",
+    "tmdb_id": 298699,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:00"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-paper",
+    "title": "The Paper (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
+    "tmdb_id": 253941,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/animal",
+    "title": "Animal (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/vYczshDGYktciJdcdxWpWManGiD.jpg",
+    "tmdb_id": 243200,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:01"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/angela",
+    "title": "Ángela (2024)",
+    "cover": "https://image.tmdb.org/t/p/w342/3khOlNyK1MExCbVdxuIZusaUARs.jpg",
+    "tmdb_id": 231452,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:02"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-hermanas-grimm",
+    "title": "Las hermanas Grimm (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/wSCKHoXV7wMrDu8TT13cURYMH5b.jpg",
+    "tmdb_id": 299236,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:03"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-historia-de-lisey",
+    "title": "La historia de Lisey (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/3uiXk4GEJUXmCN1ytQm2f81W18V.jpg",
+    "tmdb_id": 95839,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/eb-whites-charlottes-web",
+    "title": "E.B. White's Charlotte's Web (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/aQAgKexRAQFednLUtJyyLBW1yU6.jpg",
+    "tmdb_id": 205192,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:04"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-principe",
+    "title": "El príncipe (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/uwRs8jPdrFqjHVz37sYzosdwAee.jpg",
+    "tmdb_id": 229590,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:05"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/naturaleza-de-pesadilla",
+    "title": "Naturaleza de pesadilla (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/fPn8vz87UGtWgDxQ8LiilewOD1m.jpg",
+    "tmdb_id": 298682,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:06"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/riv4les",
+    "title": "RIV4LES (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/lyObCbQSLp08ZvJz71z3Bn79zaj.jpg",
+    "tmdb_id": 299483,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:07"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/billy-the-kid",
+    "title": "Billy the Kid (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/oqPkfEb8oK7pbBwv91oJI1mkexc.jpg",
+    "tmdb_id": 138971,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:07"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/chad-powers",
+    "title": "Chad Powers (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/qcrNUBwihKpIa8OiT9GnFVCvOi6.jpg",
+    "tmdb_id": 247168,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:08"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-mascaras-de-oxigeno-no-caeran-automaticamente",
+    "title": "Las máscaras de oxígeno no caerán automáticamente (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3a9pkH2cNM66pYMJPfmktLFGEBD.jpg",
+    "tmdb_id": null,
+    "tmdb_type": null,
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:09"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hotel-costiera",
+    "title": "Hotel Costiera (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/biWik6unl9bLfpJVCNvjso2GhAE.jpg",
+    "tmdb_id": 247662,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/truth-seekers",
+    "title": "Truth Seekers (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/zRva67XCxkCRt4WuobrVVysdufU.jpg",
+    "tmdb_id": 92209,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:10"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-hunting-party",
+    "title": "The Hunting Party (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/zy87kVh0gcHzFNkSqT32Sp8s7wv.jpg",
+    "tmdb_id": 247723,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:11"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-familia-del-barrio",
+    "title": "La Familia del Barrio (2013)",
+    "cover": "https://image.tmdb.org/t/p/w342/iabeD5JK8xHSQd0AC474BMeszWw.jpg",
+    "tmdb_id": 92468,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:12"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/incontrolables",
+    "title": "Incontrolables (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/5aNad9yvHHzZnOt8aFKjv5VzQbP.jpg",
+    "tmdb_id": 255859,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:13"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-casa-guinness",
+    "title": "La casa Guinness (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/cDjJBbJcOj7PsWAveLFdSa4J8zJ.jpg",
+    "tmdb_id": 250988,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:13"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/marvel-zombies",
+    "title": "Marvel Zombies (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/wofiHMsXxmp0lTafcBrgciSxBVx.jpg",
+    "tmdb_id": 138505,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:14"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/suits-la",
+    "title": "Suits LA (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3hYiNPkcLoI3QWDokOHQJIfn55O.jpg",
+    "tmdb_id": 259453,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:15"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/a-la-caza-de-espiritus-malignos",
+    "title": "A la caza de espíritus malignos (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/qKO8ZSEwq50EGk3BeAh8J9Gr34K.jpg",
+    "tmdb_id": 113268,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/papa-soltero",
+    "title": "Papá Soltero (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/a53oOQ0oXMsS2ugVYRYkY5vtTqT.jpg",
+    "tmdb_id": 293786,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:16"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/asesina-a-sueldo",
+    "title": "Asesina a sueldo (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/otaTPqhF2n3klolXubACExsnR9r.jpg",
+    "tmdb_id": 262352,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:17"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/ncis-tony-ziva",
+    "title": "NCIS: Tony & Ziva (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+    "tmdb_id": 247732,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:18"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/liaison",
+    "title": "Liaison (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/euHSunSKkXk9BjuV2aunP4NTMRg.jpg",
+    "tmdb_id": 128066,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:19"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/iosi-el-espia-arrepentido",
+    "title": "Iosi, el espía arrepentido (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/qGXHDNhbPel7oq0maxTrO06UXB9.jpg",
+    "tmdb_id": 155646,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:19"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-hotel-embrujado",
+    "title": "El hotel embrujado (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/2YL5l3WvKt4qx1SpBcmOeh6cMzV.jpg",
+    "tmdb_id": 255752,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:20"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-refugio-atomico",
+    "title": "El refugio atómico (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8Svzawg7u679VHxdKriCkm722w7.jpg",
+    "tmdb_id": 245648,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:21"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-ascenso-de-las-tortugas-ninja",
+    "title": "El ascenso de las tortugas ninja (2018)",
+    "cover": "https://image.tmdb.org/t/p/w342/4LZxcn6nWG1yWBKG0RD98HY13b4.jpg",
+    "tmdb_id": 81026,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/lego-star-wars-reconstruye-la-galaxia-piezas-del-pasado",
+    "title": "LEGO Star Wars: Reconstruye la galaxia - Piezas del pasado (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/ld6K4sIuTAlgAsIPYwW2yAvSz2m.jpg",
+    "tmdb_id": 289411,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:22"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/the-bads-of-bollywood",
+    "title": "The Ba***ds of Bollywood (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/jvETbrvtXT9VVgfBUM1ekJ5uBdB.jpg",
+    "tmdb_id": 247043,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:23"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/black-rabbit",
+    "title": "Black Rabbit (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/yUd957QtHo2TVY7k17o3nZ6DmzM.jpg",
+    "tmdb_id": 249039,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:24"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/amor-y-muerte",
+    "title": "Amor y Muerte (2023)",
+    "cover": "https://image.tmdb.org/t/p/w342/xGhCnhnv7FqvumkKUQ1Fqp287u0.jpg",
+    "tmdb_id": 611830,
+    "tmdb_type": "movie",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/diario-de-una-chica-experta-en-desastres-de-amor",
+    "title": "Diario de una chica experta en desastres de amor (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/8kvE7FgLP6Flh88dZ7UqHkjAXsz.jpg",
+    "tmdb_id": 283390,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:25"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/solo-asesinatos-en-el-edificio",
+    "title": "Solo asesinatos en el edificio (2021)",
+    "cover": "https://image.tmdb.org/t/p/w342/iuKPf10Wj6YA8yw3ct9hAereaaM.jpg",
+    "tmdb_id": 107113,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:26"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-maldiciones",
+    "title": "Las maldiciones (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/x1nTOgqSWOSqAttI2QhJCK2NDAN.jpg",
+    "tmdb_id": 261617,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:27"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-mufas-suerte-para-la-desgracia",
+    "title": "Los mufas: suerte para la desgracia (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/deQ6HNhg7PECfvHWtN9a8tjVBpH.jpg",
+    "tmdb_id": 299370,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/el-descubrimiento-de-las-brujas",
+    "title": "El descubrimiento de las brujas (2018)",
+    "cover": "https://image.tmdb.org/t/p/w342/sDKIDRsscYQKk8YRrSbhKkT5o8C.jpg",
+    "tmdb_id": 77236,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:28"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/los-sin-nombre",
+    "title": "Los sin nombre (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/zKaqZ2OMkVI8kotHbYTz3fEmf3r.jpg",
+    "tmdb_id": 273916,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:29"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/la-novia",
+    "title": "La novia (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/wF3YYWFgaO4Of2kwrfui9VIZH31.jpg",
+    "tmdb_id": 253376,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:30"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/las-muertas",
+    "title": "Las muertas (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg",
+    "tmdb_id": 246485,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/fbi-most-wanted",
+    "title": "FBI: Most Wanted (2020)",
+    "cover": "https://image.tmdb.org/t/p/w342/uwTNBqFrEur3EtK8ofWbtGXMQOP.jpg",
+    "tmdb_id": 94372,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:31"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/task",
+    "title": "Task (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/9JdL1aQdAQiyYYQ2xCqbHaEcZt8.jpg",
+    "tmdb_id": 228305,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:32"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/duda-razonable",
+    "title": "Duda razonable (2022)",
+    "cover": "https://image.tmdb.org/t/p/w342/lindvCPILFtx88wJ902iOgRmJh8.jpg",
+    "tmdb_id": 205272,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:33"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/hotel-transilvania-la-serie",
+    "title": "Hotel Transilvania: La serie (2017)",
+    "cover": "https://image.tmdb.org/t/p/w342/a5xJ9QR96sFma6m4YWVbQkIeQqG.jpg",
+    "tmdb_id": 72442,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:34"
+  },
+  {
+    "url": "https://tioplus.app/index%2ephp/serie/recuerdos-del-amor",
+    "title": "Recuerdos del amor (2025)",
+    "cover": "https://image.tmdb.org/t/p/w342/3n4yxdUxGuhGcqzM1xKWi8rwU57.jpg",
+    "tmdb_id": 292516,
+    "tmdb_type": "tv",
+    "section": "series",
+    "episodes": [],
+    "fecha_scrape": "2026-11-04 16:34"
   }
 ]
